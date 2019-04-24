@@ -1,24 +1,7 @@
-# README
+# Kitten Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Generic JSON API with Rails AKA Kitten Factory
 
-Things you may want to cover:
+localhost:3000/Kittens.json 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Watch the magic
